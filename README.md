@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-A Front End Software Developer with a passion for creating intuitive, dynamic user experiences using brilliant UI effects and animations.
+A Front End Software Developer with a passion for creating intuitive, dynamic user experiences using brilliant UI effects and animations. My end goal for every project is to deliver a resilient, scalable, and secure web app that delights end-users.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdurrahman-sogbesan-17351a237/)
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdurrahman0803@gmail.com)
