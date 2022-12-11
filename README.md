@@ -25,7 +25,7 @@ A Front End Software Developer with a passion for creating intuitive, dynamic us
 - 👯 I’m looking to collaborate on impactful projects with React
 - 💬 Ask me about anything programming. I'm happy to help!
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love games🕹 and anime
+- ⚡ Fun fact: I love playing games🕹 and watching anime
 
 ## Languages, Frameworks & Libraries
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/> 
