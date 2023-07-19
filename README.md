@@ -65,5 +65,5 @@ A Full Stack Software Developer with a passion for creating intuitive, dynamic u
 
 [![Abdurrahman Sogbesan's GitHub stats](https://github-readme-stats-k4a2bbt52-abdurrahmansogbesan.vercel.app/api?username=AbdurrahmanSogbesan&count_private=true&show_icons=true&theme=radical)](https://github.com/AbdurrahmanSogbesan/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-k4a2bbt52-abdurrahmansogbesan.vercel.app/api/top-langs/?username=AbdurrahmanSogbesan&layout=compact)](https://github.com/AbdurrahmanSogbesan/github-readme-stats)
+[![Top Langs](https://github-readme-stats-k4a2bbt52-abdurrahmansogbesan.vercel.app/api/top-langs/?username=AbdurrahmanSogbesan&layout=compact&theme=radical)](https://github.com/AbdurrahmanSogbesan/github-readme-stats)
 
