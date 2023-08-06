@@ -21,11 +21,11 @@ A Full Stack Software Developer with a passion for creating intuitive, dynamic u
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdurrahman-sogbesan-17351a237/)
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdurrahman0803@gmail.com)
 
-- 🌱 I’m currently learning Technical Writing and NestJS
+- 🌱 I’m currently learning Technical Writing
 - 👯 I’m looking to collaborate on impactful projects with React and NodeJS
 - 💬 Ask me about anything programming. I'm happy to help!
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love playing games🕹 and watching anime
+- ⚡ Fun fact: I love watching anime
 
 ## Languages, Frameworks & Libraries
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/> 
