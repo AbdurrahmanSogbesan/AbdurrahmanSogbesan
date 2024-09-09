@@ -22,7 +22,7 @@ A Full Stack Software Developer with a passion for creating intuitive, dynamic u
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdurrahman0803@gmail.com)
 
 - 🌱 I’m currently learning Technical Writing
-- 👯 I’m looking to collaborate on impactful projects with React and NodeJS
+- 👯 I’m looking to collaborate on impactful projects with React, React Native and NodeJS
 - 💬 Ask me about anything programming. I'm happy to help!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love watching anime
